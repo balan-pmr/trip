@@ -14,13 +14,18 @@ a{
 	text-decoration: none; color: inherit;
 }
 
+
+
 .column-content {
-    background-color: #00ffbf;
+    background-color: #00ffbf24;;
     border: 2px dotted red;
-    width: 30%;
     /*margin-top: 10px; */
-    /*text-align: center */
+    text-align: left;
+    padding-top: 3px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
+
   
   /* Clear floats after the columns */
   .row:after {
