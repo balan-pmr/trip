@@ -42,7 +42,7 @@ let data = [];
  * 
  */
 data.push({
-    "day_tilte":"SABADO 20 JULIO", "num_day": "20", "num_month":"07", "num_anio":"2019", "idDay":"sab20",
+    "day_tilte":"SABADO --- 20 JULIO", "num_day": "20", "num_month":"07", "num_anio":"2019", "idDay":"sab20",
     "events": [
         {
             "title": "Salida de Veracruz a CD. del Carmen Campeche",
@@ -95,7 +95,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"DOMINGO 21 JULIO", "num_day": "21", "num_month":"07", "num_anio":"2019","idDay":"dom21",
+    "day_tilte":"DOMINGO --- 21 JULIO", "num_day": "21", "num_month":"07", "num_anio":"2019","idDay":"dom21",
     "events": [
         {
             "title": "Salida a Chiquila (Holbox)",
@@ -144,7 +144,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"LUNES 22 JULIO", "num_day": "22", "num_month":"07", "num_anio":"2019","idDay":"lun22",
+    "day_tilte":"LUNES --- 22 JULIO", "num_day": "22", "num_month":"07", "num_anio":"2019","idDay":"lun22",
     "events": [
         {
             "title": "Ir a Isla Mujeres",
@@ -168,7 +168,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"MARTES 23 JULIO", "num_day": "23", "num_month":"07", "num_anio":"2019","idDay":"mar23",
+    "day_tilte":"MARTES --- 23 JULIO", "num_day": "23", "num_month":"07", "num_anio":"2019","idDay":"mar23",
     "events": [
         {
             "title": "Estancia en el AirBnB",
@@ -191,7 +191,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"MIERCOLES 24 JULIO", "num_day": "24", "num_month":"07", "num_anio":"2019","idDay":"mier24",
+    "day_tilte":"MIERCOLES --- 24 JULIO", "num_day": "24", "num_month":"07", "num_anio":"2019","idDay":"mier24",
     "events": [
         {
             "title": "Salir de Cancun a Xelha",
@@ -229,7 +229,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"JUEVES 25 JULIO", "num_day": "25", "num_month":"07", "num_anio":"2019","idDay":"jue25",
+    "day_tilte":"JUEVES --- 25 JULIO", "num_day": "25", "num_month":"07", "num_anio":"2019","idDay":"jue25",
     "events": [
         {
             "title": "Salir de Cancun a XCARTE",
@@ -269,7 +269,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"VIERNES 26 JULIO", "num_day": "26", "num_month":"07", "num_anio":"2019","idDay":"vie26",
+    "day_tilte":"VIERNES --- 26 JULIO", "num_day": "26", "num_month":"07", "num_anio":"2019","idDay":"vie26",
     "events": [
         {
             "title": "Salir al Xenote Azul",
@@ -308,7 +308,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"SABADO 27 JULIO", "num_day": "27", "num_month":"07", "num_anio":"2019","idDay":"sab27",
+    "day_tilte":"SABADO --- 27 JULIO", "num_day": "27", "num_month":"07", "num_anio":"2019","idDay":"sab27",
     "events": [
         {
             "title": "Salir a Bacalar",
@@ -339,7 +339,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"DOMINGO 28 JULIO", "num_day": "28", "num_month":"07", "num_anio":"2019","idDay":"dom28",
+    "day_tilte":"DOMINGO --- 28 JULIO", "num_day": "28", "num_month":"07", "num_anio":"2019","idDay":"dom28",
     "events": [
         {
             "title": "Salir a Palenque",
@@ -368,7 +368,7 @@ data.push({
  * 
  */
 data.push({
-    "day_tilte":"LUNES 29 JULIO", "num_day": "29", "num_month":"07", "num_anio":"2019","idDay":"lun29",
+    "day_tilte":"LUNES --- 29 JULIO", "num_day": "29", "num_month":"07", "num_anio":"2019","idDay":"lun29",
     "events": [
         {
             "title": "Salir a Peñuela Veracruz",
