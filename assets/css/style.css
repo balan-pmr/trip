@@ -3,7 +3,7 @@
 
       body {
         font-family: 'Raleway', sans-serif;
-        background-image: url("../img/palm.png");
+        /* background-image: url("../img/palm.png"); */
       }
      
 /* Create two equal columns that floats next to each other */
@@ -18,8 +18,8 @@ a{
 
 
 .column-content {
-    background-color: #0288d524;;
-    border: 2px dotted black;
+    background-color: transparent;
+    border: 1px dotted black;
     /*margin-top: 10px; */
     text-align: left;
     padding-top: 3px;
