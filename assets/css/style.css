@@ -19,7 +19,7 @@ a{
 
 .column-content {
     background-color: transparent;
-    border: 1px dotted black;
+    border: 1px dotted transparent;
     /*margin-top: 10px; */
     text-align: left;
     padding-top: 3px;
